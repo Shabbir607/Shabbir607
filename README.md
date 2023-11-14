@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,java,,kotlin,php,figma,firebase,github,mysql,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,java,kotlin,php,figma,firebase,github,mysql,postman,vscode&perline=14" />
   </a>
 </p>
 
