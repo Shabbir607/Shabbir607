@@ -65,11 +65,7 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Shabbir607&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
 <!--- trophy (start) -->
 
 
@@ -105,8 +101,7 @@
 <a href="linkedin.com/in/ghulam-shabbir-659466272/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="linkedin.com/in/ghulam-shabbir-659466272/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="linkedin.com/in/ghulam-shabbir-659466272/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="http://wa.me/+923056702559" target="blank"><img align="center" src=" https://tochat.be/whatsapp-icon-green.jpg" alt="discord" height="50" width="50" /></a>
-  
+<a href="linkedin.com/in/ghulam-shabbir-659466272/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>  
 </p>
 
 
