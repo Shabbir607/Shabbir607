@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Android Development, Java, Kotlin, Jetpack Compose, Android SDK, Laravel**
+- 🔭 I’m currently working on **Android & Web Development, Java, Kotlin, Jetpack Compose, Android SDK, Laravel**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
